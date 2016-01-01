@@ -1,0 +1,27 @@
+h1 {
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	color: #767676
+	font-size: 4.5em;
+
+}
+
+#button {
+	align: center;
+	width: 125px;
+	height: 125px;
+	border-radius: 65px;
+	font-size: 18px;
+	color: #fff;
+	font-family: Helvetica, sans-serif;
+	line-height: 120px;
+	text-align: center;
+	background: #a9a9a9;
+	margin: 0 auto;
+}
+
+p {	
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	color: #767676
+}
