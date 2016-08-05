@@ -5,4 +5,4 @@ keyboards that you could carry would cost you. There was also a
 constraint on weight with a maximum of 100kg.
 
 The main computation was written in JavaScript in conjunction with
-jQuery so that the information is displayed on an HTML webpage. Enjoy!
+jQuery so that the information is displayed on an HTML webpage.
